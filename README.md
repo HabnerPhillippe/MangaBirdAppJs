@@ -1,0 +1,2 @@
+# MangaBirdAppJs
+ Trabalho individual ReactNative
